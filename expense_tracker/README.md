@@ -43,6 +43,9 @@ For the understandability section, we will be inspecting your git log. You shoul
 
 ## App features
 • Allow users to enter payment transactions
+
 • Has text boxes for users to enter amount or category for each transaction
+
 • Users can view all entered transactions, with their Serial, Amount, Category, and Date
+
 • Total amount is also shown in table
